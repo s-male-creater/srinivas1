@@ -22,7 +22,7 @@ public class SendData_Into_Text_Box {
     @Test
     public void byUsingSendKeys()
     {
-         driver.findElement(By.name("firstname")).sendKeys("srinivas");
+       //  driver.findElement(By.name("firstname")).sendKeys("srinivas");
 
     }
 
